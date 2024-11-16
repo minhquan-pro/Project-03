@@ -318,6 +318,16 @@ a {
 	object-fit: cover;
 }
 
+.box3-img .image {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #1ebfc1;
+	color: #fff;
+	font-size: 1rem;
+	font-weight: 500;
+}
+
 .img-item2 {
 	display: flex;
 }
