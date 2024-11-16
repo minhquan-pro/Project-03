@@ -220,6 +220,10 @@ a {
 	cursor: pointer;
 }
 
+.hero .button .no-border:hover {
+	opacity: 0.7;
+}
+
 /* Right */
 
 .hero .image {
